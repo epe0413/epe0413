@@ -1,4 +1,14 @@
-### Hi there 👋
+### ¡¡¡Hola, Soy Everth Paredes!!! 👋
+
+
+```javascript
+const epe = {
+  code: [HTML, CSS, Javascript, PHP],
+  tools: [React, Node, Laravel]
+}
+```
+
+[![Everth GitHub stats](https://github-readme-stats.vercel.app/api?username=epe0413&show_icons=true&theme=dark)](https://github.com/epe0413/github-readme-stats)
 
 <!--
 **epe0413/epe0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
